@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=20193151)](https://solved.ac/20193151/)
+
 <!--
 **ZeroDimen/ZeroDimen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
