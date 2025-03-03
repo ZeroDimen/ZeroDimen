@@ -34,4 +34,5 @@
 > - 핵심 역할 : UI 설계, Json형식으로 사용자의 정보를 읽기 및 저장 구현
 >> - Language : C# 
 >> - Skill : Unity
->> [프로젝트 상세 설명](https://github.com/ZeroDimen/GameProject)
+>> 
+>> [프로젝트 상세 설명](https://github.com/ZeroDimen/Brick)
