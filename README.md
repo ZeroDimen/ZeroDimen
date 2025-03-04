@@ -14,7 +14,7 @@
 
 
 
-## 1. GameProject (PC)
+## 1. :computer: GameProject (PC)
 > Unity를 이용한 메트로배니아 게임 개발 [캡스톤 디자인 2 - 팀명 Pork-Empire]
 > 
 > - 개발 기간 : 2024/01 ~ 2024/06  
@@ -27,7 +27,7 @@
 
 <br />
 
-## 2. Brick(Mobile)
+## 2. :iphone: Brick(Mobile)
 > Unity를 이용한 벽돌깨기 게임 개발 [팀명 Pork-Empire]
 >
 > - 개발 기간 : 2024/08 ~ 2024/12
