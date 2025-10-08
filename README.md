@@ -36,3 +36,15 @@
 >> - Skill : Unity
 >> 
 >> [프로젝트 상세 설명](https://github.com/ZeroDimen/Brick)
+
+<br />
+
+## 3. :computer: Concave (PC)
+> Unity를 이용한 오목 게임 개발 [멋쟁이사자처럼 - 16조 팀프로젝트]
+>
+> - 개발 기간 : 2025/09/10 ~ 2025/09/21
+> - 핵심 역할 : 오목 AI 알고리즘 구현, 급수에 따른 AI 난이도 조절 구현
+>> - Language : C# 
+>> - Skill : Unity
+>> 
+>> [프로젝트 상세 설명](https://github.com/tailless99/omok-16)
